@@ -1,0 +1,101 @@
+/* Booking.css */
+
+/* Container for the booking page */
+.booking-container {
+  padding: 30px;
+  background-color: #f8f9fa; /* Light gray background for a soft look */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Styling for the form elements */
+.booking-container h1 {
+  font-size: 2.5rem;
+  color: #343a40; /* Dark gray for text */
+  margin-bottom: 20px;
+}
+
+.booking-container .form-group {
+  margin-bottom: 1.5rem;
+}
+
+.booking-container .form-label {
+  font-weight: bold;
+  color: #495057; /* Slightly lighter gray for labels */
+}
+
+.booking-container .form-control {
+  border-radius: 4px;
+  border: 1px solid #ced4da;
+  box-shadow: none;
+}
+
+.booking-container .form-control:focus {
+  border-color: #80bdff;
+  box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+}
+
+.booking-container .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 1rem;
+}
+
+.booking-container .btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+/* Styling for the total amount section */
+.total-amount {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.total-amount h3 {
+  font-size: 1.5rem;
+  color: #28a745; /* Green color for total amount */
+  text-align: center;
+  margin: 0;
+}
+
+/* Styling for the cart items section */
+.cart-items {
+  margin-top: 30px;
+}
+
+.cart-items h2 {
+  font-size: 2rem;
+  color: #343a40;
+  margin-bottom: 15px;
+}
+
+.cart-items .list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 15px;
+}
+
+.cart-items .list-group-item:nth-child(even) {
+  background-color: #f8f9fa; /* Alternating background color */
+}
+
+.cart-items .list-group-item .price {
+  font-weight: bold;
+  color: #007bff; /* Blue color for prices */
+}
+
+.cart-items .list-group-item .total-price {
+  font-weight: bold;
+  color: #dc3545; /* Red color for total price */
+}

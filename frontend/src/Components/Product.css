@@ -1,0 +1,21 @@
+/* Style for product cards */
+.product-card {
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    overflow: hidden; /* Prevents overflow of content */
+  }
+  
+  /* Style for product card image */
+  .product-card img {
+    height: 200px; /* Fixed height for product images */
+    object-fit: cover; /* Cover the card area */
+  }
+  
+  /* Style for product price */
+  .price {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #007bff; /* Bootstrap primary color */
+  }
+  

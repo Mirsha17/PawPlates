@@ -1,0 +1,47 @@
+/* Background color for the entire form container */
+.container {
+  background-color: #f8f9fa; /* Light gray background */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Form heading styling */
+h2 {
+  color: #343a40; /* Dark gray */
+}
+
+/* Section heading for the address */
+h3 {
+  color: #495057; /* Slightly lighter gray */
+}
+
+/* Form labels */
+label {
+  font-weight: bold;
+  color: #495057;
+}
+
+/* Form controls (inputs, select) */
+.form-control {
+  background-color: #e9ecef; /* Very light gray */
+  border: 1px solid #ced4da; /* Border color */
+  padding: 10px;
+  border-radius: 5px;
+  color: #495057;
+}
+
+/* Submit button */
+.btn-primary {
+  background-color: #007bff; /* Primary blue color */
+  border-color: #007bff;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+/* Submit button hover effect */
+.btn-primary:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+  border-color: #0056b3;
+}

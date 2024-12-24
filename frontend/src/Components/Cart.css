@@ -1,0 +1,60 @@
+/* Styles for the Cart component */
+.cart-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cart-card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.cart-card .price {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.cart-card .btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+.cart-card .btn-danger:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+  color: #343a40;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #6c757d;
+}
+
+.cart-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.cart-card:hover {
+  transform: scale(1.05);
+}
+
+.price {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.total-amount {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: right;
+}
