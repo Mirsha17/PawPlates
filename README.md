@@ -1,6 +1,1 @@
-PawPlates is a responsive e-commerce web application designed to provide pet owners with a seamless shopping experience for premium pet food.
-
-Tech Stack: Frontend: React.js, Bootstrap, CSS for responsive UI
-Backend: Express.js for server-side logic
-Database: MongoDB for data storage and persistence
-
+PawPlates is a full-stack e-commerce web application for premium pet food, designed to provide a seamless and user-friendly shopping experience. It is built with React.js, Bootstrap, and CSS for an interactive and responsive frontend, while Express.js handles server-side operations. MongoDB is used for reliable and scalable data storage, ensuring persistent and efficient management of products, cart, and bookings.
