@@ -1,27 +1,17 @@
-PawPlates is a comprehensive e-commerce platform dedicated to delivering premium pet food. Designed with love for pets and their owners, this website provides an intuitive shopping experience and seamless functionality.
+PawPlates is a responsive e-commerce web application designed to provide pet owners with a seamless shopping experience for premium pet food.
 
-Features
-🏠 Home Page
-Interactive carousel with an introduction to PawPlates.
-Visually appealing background images to capture users’ attention.
-📖 About Us
-Details about the mission and vision of PawPlates.
-Our commitment to providing high-quality, nutritious food for pets.
-🛒 Product Listing
-Beautifully styled product cards with images, descriptions, and prices.
-"Add to Cart" functionality for a smooth shopping experience.
-🛍️ Shopping Cart
-Dynamic cart page displaying selected items.
-Total price calculation and item removal options.
-📞 Contact Us
-A form to reach out for queries, support, or feedback.
-User-friendly interface to ensure smooth communication.
-📅 Booking
-Option to book products with unique codes for purchasing items in the cart.
+Key Features
+Home Page: Interactive carousel with visually appealing backgrounds.
+About Us: Mission and vision highlighting commitment to high-quality pet food.
+Product Listing: Stylish product cards with images, descriptions, prices, and “Add to Cart” functionality.
+Shopping Cart: Dynamic cart with total price calculation and item removal.
+Contact & Booking: User-friendly form for queries and unique booking codes for purchases.
+
 Technology Stack
-Frontend
-React.js: Interactive UI components.
-Bootstrap & CSS: Responsive design and enhanced styling.
-Backend
-Express.js: Robust server-side operations.
-MongoDB: Reliable and scalable database.
+Frontend: React.js, Bootstrap, CSS for responsive and interactive UI.
+Backend: Express.js server with MongoDB database for data persistence.
+
+Highlights for Recruiters
+Full-stack MERN project showcasing React.js, Express.js, and MongoDB integration.
+Implements dynamic UI updates, shopping cart logic, and booking functionality.
+Responsive design and user-friendly interface demonstrating attention to UX/UI.
